@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="32" tileheight="32" nextobjectid="55">
+ <tileset firstgid="1" name="045-Cave03" tilewidth="32" tileheight="32" tilecount="264">
+  <image source="Tilesets/045-Cave03.png" trans="ff00ff" width="256" height="1056"/>
+ </tileset>
+ <tileset firstgid="265" name="037-Fort01" tilewidth="32" tileheight="32" tilecount="240">
+  <image source="Tilesets/037-Fort01.png" trans="ff00ff" width="256" height="960"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8ZDGAK1BAfU=
+  </data>
+ </layer>
+ <layer name="Primera capa de cosas" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy9k0sKgDAMRCukO3d6D+9/O1swEGI+kwoOzKIl5uVTqbVGw334am/tzl3FJNxBxtS2yLBYVq5qPxaDntyWmIH0wfIYHivr4zCKyxgEMnTueWYjDOstrOr0lgDKmpPF0Jbio5xDZK+O6jdVVRhRjO63wo/OUc1fGbqPTcX8xUB3ijCyHjJOZR/o242E5MjEfctQPQc0/+rOdS6v9spMVv59GXMDa+sMfw==
+  </data>
+ </layer>
+ <objectgroup name="Colisiones">
+  <object id="1" x="2" y="3" width="92" height="213"/>
+  <object id="2" x="96" y="40" width="31" height="175"/>
+  <object id="3" x="128" y="72" width="64" height="144"/>
+  <object id="4" x="192" y="135" width="36" height="82"/>
+  <object id="5" x="228" y="136" width="27" height="80"/>
+  <object id="6" x="255" y="161" width="32" height="57"/>
+  <object id="7" x="288" y="200" width="27" height="17"/>
+  <object id="8" x="96" y="215" width="32" height="133"/>
+  <object id="9" x="130" y="258" width="124" height="90"/>
+  <object id="10" x="255" y="293" width="90" height="58"/>
+  <object id="12" x="256" y="2" width="29" height="61"/>
+  <object id="13" x="288" y="70" width="129" height="25"/>
+  <object id="14" x="387" y="97" width="30" height="95"/>
+  <object id="15" x="415" y="0" width="66" height="28"/>
+  <object id="18" x="483" y="3" width="120" height="189"/>
+  <object id="19" x="605" y="5" width="63" height="152"/>
+  <object id="20" x="671" y="7" width="61" height="117"/>
+  <object id="21" x="737" y="5" width="61" height="92"/>
+  <object id="22" x="707" y="162" width="97" height="28"/>
+  <object id="23" x="610" y="229" width="26" height="25"/>
+  <object id="24" x="1" y="451" width="92" height="27"/>
+  <object id="25" x="65" y="480" width="61" height="31"/>
+  <object id="26" x="98" y="514" width="96" height="28"/>
+  <object id="29" x="227" y="611" width="280" height="29"/>
+  <object id="30" x="417" y="515" width="31" height="95"/>
+  <object id="31" x="448" y="579" width="28" height="32"/>
+  <object id="32" x="449" y="327" width="28" height="214"/>
+  <object id="33" x="478" y="325" width="156" height="24"/>
+  <object id="36" x="545" y="581" width="59" height="26"/>
+  <object id="37" x="611" y="546" width="58" height="28"/>
+  <object id="38" x="643" y="514" width="58" height="31"/>
+  <object id="39" x="674" y="484" width="58" height="28"/>
+  <object id="40" x="705" y="449" width="59" height="32"/>
+  <object id="42" x="740" y="323" width="55" height="127"/>
+  <object id="43" x="703" y="609" width="96" height="29"/>
+  <object id="44" x="770" y="547" width="30" height="62"/>
+  <object id="45" x="737" y="579" width="30" height="29"/>
+  <object id="47" x="322" y="351" width="26" height="160"/>
+  <object id="49" x="418" y="259" width="314" height="22"/>
+  <object id="50" x="160" y="545.333" width="28" height="28"/>
+  <object id="51" x="320" y="578.667" width="29.3333" height="28"/>
+  <object id="52" x="518" y="392" width="83.333" height="84"/>
+  <object id="53" x="601" y="391" width="37.667" height="55.6667"/>
+ </objectgroup>
+</map>

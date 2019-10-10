@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="32" tileheight="32" nextobjectid="67">
+ <tileset firstgid="1" name="003-Forest01" tilewidth="32" tileheight="32" tilecount="152">
+  <image source="Tilesets/003-Forest01.png" trans="ff00ff" width="256" height="608"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8ZDGAK1BAfU=
+  </data>
+ </layer>
+ <layer name="Objetos" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytldsKhDAQQ6fP3fX/P9ddqDCEk95sINhSm8xojTUiPobfH692VeQ1t//PKiSdhytrAdqkn1Ea3dzBeYz8ZnTJw92TnyuB1klPNV1PveerY/Uknbceq/MIPoO53hMeGfRuTvVBONXHLHc9djCj+canp1dkfoLRdGdqfvKX6M7CqDdFCZ/bs7mYz99KFlOttD/nWU9zJ9t7HhXG5D/6NjSHaK/6ujrJQ/+1Ny+oCgk=
+  </data>
+ </layer>
+ <objectgroup name="Colisiones">
+  <object id="2" x="-2" y="2" width="30" height="636"/>
+  <object id="4" x="130" y="580" width="56" height="56"/>
+  <object id="7" x="96" y="417.333" width="605.333" height="25.3333"/>
+  <object id="8" x="608" y="385.333" width="62.6667" height="29.3333"/>
+  <object id="9" x="130.667" y="385.333" width="57.3333" height="28"/>
+  <object id="10" x="97.3333" y="169.333" width="58.6667" height="209.333"/>
+  <object id="11" x="126.667" y="100" width="30.6667" height="68"/>
+  <object id="13" x="225.333" y="134.667" width="28" height="212"/>
+  <object id="14" x="252" y="134.667" width="64" height="22.6667"/>
+  <object id="15" x="321.333" y="162.667" width="154.667" height="90.6667"/>
+  <object id="16" x="480" y="134.667" width="92" height="24"/>
+  <object id="17" x="542.667" y="158.667" width="30.6667" height="189.333"/>
+  <object id="18" x="253.333" y="324" width="294.667" height="24"/>
+  <object id="19" x="290.667" y="230.667" width="24" height="21.3333"/>
+  <object id="23" x="289.333" y="294.667" width="28" height="25.3333"/>
+  <object id="24" x="388" y="265.333" width="22.6667" height="16"/>
+  <object id="25" x="481.333" y="230.667" width="25.3333" height="21.3333"/>
+  <object id="26" x="481.333" y="296" width="26.6667" height="24"/>
+  <object id="27" x="641.333" y="98.6667" width="29.3333" height="285.333"/>
+  <object id="28" x="672" y="166.667" width="29.3333" height="214.667"/>
+  <object id="30" x="65.3333" y="513.333" width="158.667" height="25.3333"/>
+  <object id="31" x="65.3333" y="537.333" width="28" height="65.3333"/>
+  <object id="32" x="225.333" y="581.333" width="29.3333" height="54.6667"/>
+  <object id="33" x="254.667" y="578.667" width="33.3333" height="28"/>
+  <object id="38" x="452" y="578.667" width="90.6667" height="25.3333"/>
+  <object id="39" x="449.333" y="608" width="25.3333" height="29.3333"/>
+  <object id="40" x="514.667" y="609.333" width="26.6667" height="25.3333"/>
+  <object id="41" x="610.667" y="580" width="61.3333" height="57.3333"/>
+  <object id="42" x="542.667" y="512" width="190.667" height="28"/>
+  <object id="43" x="704" y="542.667" width="29.3333" height="94.6667"/>
+  <object id="44" x="673.333" y="614.667" width="30.6667" height="22.6667"/>
+  <object id="45" x="736" y="614.667" width="61.3333" height="22.6667"/>
+  <object id="47" x="708" y="2.66667" width="28" height="57.3333"/>
+  <object id="48" x="736" y="1.33333" width="32" height="121.333"/>
+  <object id="49" x="769.333" y="0" width="28" height="582.667"/>
+  <object id="51" x="770.667" y="581.333" width="26.6667" height="34.6667"/>
+  <object id="52" x="29.3333" y="1.33333" width="288" height="28"/>
+  <object id="53" x="29.3333" y="30.6667" width="64" height="32"/>
+  <object id="54" x="28" y="64" width="34.6667" height="58.6667"/>
+  <object id="55" x="226.667" y="33.3333" width="92" height="29.3333"/>
+  <object id="58" x="449.333" y="1.33333" width="94.6667" height="62.6667"/>
+  <object id="59" x="544" y="2.66667" width="160" height="24"/>
+  <object id="61" x="255" y="450" width="255" height="29"/>
+  <object id="62" x="291" y="482" width="184" height="29"/>
+  <object id="65" x="291" y="578" width="26" height="57"/>
+ </objectgroup>
+</map>

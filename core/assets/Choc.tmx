@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="32" tileheight="32" nextobjectid="35">
+ <tileset firstgid="1" name="003-Forest01" tilewidth="32" tileheight="32" tilecount="152">
+  <image source="Tilesets/003-Forest01.png" trans="ff00ff" width="256" height="608"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8ZDGAK1BAfU=
+  </data>
+ </layer>
+ <layer name="Primer capa" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy1lEsKACEMQ+ta73/eWQ2UkPTjp1BGZNpHYnWZ2RLZDdUny9eMnXjdXzGqMSE7nEqvf+3rIk6mxffyLKzp6skY6sw8g/WqMLLMGIoT+XPKYHpOvTLYi+aswphuD9mKuctg+k51ME+Zh9Gd78yZ8ip7Tzo62L2svCU3GJ4zyD8VBsYgjMiv6lypWPBlNTsMPPMPNLoNEg==
+  </data>
+ </layer>
+ <objectgroup name="Colisiones">
+  <object id="1" x="-2" y="0" width="190" height="122"/>
+  <object id="2" x="190" y="-2" width="32" height="94"/>
+  <object id="3" x="224" y="36" width="28" height="26"/>
+  <object id="4" x="0" y="198" width="28" height="150"/>
+  <object id="5" x="34" y="300" width="28" height="50"/>
+  <object id="6" x="64" y="328" width="32" height="54"/>
+  <object id="7" x="96" y="352" width="28" height="94"/>
+  <object id="8" x="68" y="426" width="26" height="48"/>
+  <object id="9" x="-2" y="452" width="70" height="28"/>
+  <object id="10" x="-2" y="480" width="34" height="28"/>
+  <object id="11" x="-2" y="548" width="30" height="54"/>
+  <object id="12" x="30" y="582" width="30" height="52"/>
+  <object id="13" x="98" y="608" width="26" height="30"/>
+  <object id="15" x="128" y="516" width="124" height="22"/>
+  <object id="16" x="260" y="196" width="242" height="446"/>
+  <object id="17" x="128" y="164" width="128" height="148"/>
+  <object id="18" x="194" y="316" width="62" height="28"/>
+  <object id="19" x="290" y="164" width="186" height="28"/>
+  <object id="20" x="322" y="130" width="122" height="30"/>
+  <object id="21" x="576" y="230" width="64" height="308"/>
+  <object id="22" x="644" y="352" width="58" height="122"/>
+  <object id="23" x="642" y="470" width="24" height="66"/>
+  <object id="25" x="672" y="608" width="30" height="30"/>
+  <object id="26" x="504" y="418" width="78" height="118"/>
+  <object id="27" x="504" y="534" width="34" height="38"/>
+  <object id="28" x="606" y="2" width="194" height="62"/>
+  <object id="29" x="642" y="66" width="158" height="62"/>
+  <object id="30" x="672" y="132" width="128" height="58"/>
+  <object id="31" x="740" y="194" width="56" height="58"/>
+  <object id="32" x="768" y="252" width="30" height="386"/>
+  <object id="33" x="128" y="545" width="31" height="27"/>
+ </objectgroup>
+</map>
